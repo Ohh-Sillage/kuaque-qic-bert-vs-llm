@@ -339,9 +339,11 @@ git ls-remote origin
 | 环节 | 执行前 | 执行后 |
 |---|---|---|
 | 提交历史 | 1 条 `first commit`（混入 1.17GB 大文件 + 12 个 .pyc） | 1 条干净的 `Initial commit` |
-| `.git` 对象库 | **1.08 GiB**（97 objects） | 待推送完成后补充 |
+| `.git` 对象库 | **1.08 GiB**（97 objects） | **17.36 MiB**（82 objects；push 包 14.27 MiB） |
 | 被跟踪大文件 | `checkpoints/*.pt` × 3、`__pycache__/*.pyc` × 12 | 无（由 `.gitignore` 排除） |
-| 远程仓库 | origin 已配置，远程为空 | 待推送完成后补充 |
+| 远程仓库 | origin 已配置，远程为空 | `refs/heads/main` → `fad813d`（新分支首次推送，无需 force） |
 | 误报率风险 | push 必然被 GitHub 拒绝（>100MB 单文件） | 无（最大文件 ≈ 11 MB 的 tokenizer.json） |
+
+> 推送验证：`git ls-remote origin` 与本地 `git log` 哈希一致（`fad813d`），`git status` 显示 working tree clean、与 `origin/main` 同步。
 
 **遗留提醒**：`outputs/checkpoints/` 已在本地保留（CPU 训练 45 分钟才产出一个，删了要重跑）；它们只是不再进入 git，后续如需分享模型文件可走 Releases / 网盘。
