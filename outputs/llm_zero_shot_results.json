@@ -1,0 +1,1408 @@
+{
+  "accuracy": 0.29,
+  "total": 200,
+  "correct": 58,
+  "unparseable": 26,
+  "results": [
+    {
+      "text": "髌骨粉碎骨折术后感染的治疗方法",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "患前列腺囊肿疼痛理应怎样治效果才好",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "治不孕去哪家医院比较好",
+      "true_label": "就医建议",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": true
+    },
+    {
+      "text": "人流后什么时候能来月经呢",
+      "true_label": "疾病表述",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "尿囊素，透明质酸钠，生育酚，怎么办？",
+      "true_label": "治疗方案",
+      "pred_label": null,
+      "raw_output": "生育酚",
+      "correct": false
+    },
+    {
+      "text": "用药十天激素类药物",
+      "true_label": "其他",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": false
+    },
+    {
+      "text": "癫痫病人吃错感冒药会诱使发作吗",
+      "true_label": "后果表述",
+      "pred_label": null,
+      "raw_output": "药物相互作用",
+      "correct": false
+    },
+    {
+      "text": "怎样才能用于治疗胃病",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "推荐平顶山做包皮哪家比较好？",
+      "true_label": "就医建议",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": true
+    },
+    {
+      "text": "要去医院检查阑尾炎 能检查出妇科病么 原来有过盆腔积液很少 已经好了 如果做阑尾炎的检查会不会查出来？",
+      "true_label": "疾病表述",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "怀孕初期担忧怎么办...",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "吃完贵州百灵维C银翘片可以喝可乐吗？",
+      "true_label": "注意事项",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "熊猫血女能生二宝吗？有风险吗？",
+      "true_label": "其他",
+      "pred_label": null,
+      "raw_output": "生育风险",
+      "correct": false
+    },
+    {
+      "text": "男生总是熬夜多吃什么好补充精力？",
+      "true_label": "治疗方案",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": false
+    },
+    {
+      "text": "甲亢的症状",
+      "true_label": "疾病表述",
+      "pred_label": null,
+      "raw_output": "症状解读",
+      "correct": false
+    },
+    {
+      "text": "江苏治疗肛肠疾病去哪家医院好？",
+      "true_label": "就医建议",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": true
+    },
+    {
+      "text": "孕妇怀孕期间高烧39°对宝贝有影响吗",
+      "true_label": "后果表述",
+      "pred_label": "后果表述",
+      "raw_output": "后果表述",
+      "correct": true
+    },
+    {
+      "text": "心理咨询我是不是心理有病？",
+      "true_label": "其他",
+      "pred_label": "病因分析",
+      "raw_output": "病因分析",
+      "correct": false
+    },
+    {
+      "text": "我是半月膜损伤3度需要手术吗",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "慢性胃窦炎可吃全麦馒头吗",
+      "true_label": "注意事项",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": false
+    },
+    {
+      "text": "蜂蜜一天可以喝多少啊？",
+      "true_label": "注意事项",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": false
+    },
+    {
+      "text": "孩子睡觉的时候总是出汗天气也不热前一阵刚检测的也不...",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "女儿十六岁，睡觉有时打呼噜，是怎么回事？",
+      "true_label": "病情诊断",
+      "pred_label": "后果表述",
+      "raw_output": "后果表述",
+      "correct": false
+    },
+    {
+      "text": "刚入睡前二小时出汗特别多怎么回事",
+      "true_label": "病情诊断",
+      "pred_label": null,
+      "raw_output": "症状解读",
+      "correct": false
+    },
+    {
+      "text": "家长怎么判断孩子吃饱了呢？怎么都不肯吃了就是饱了",
+      "true_label": "病情诊断",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "多动症能自愈吗能治好吗?",
+      "true_label": "疾病表述",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": false
+    },
+    {
+      "text": "金锁固精丸一般吃多久就可以停药了啊",
+      "true_label": "其他",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": false
+    },
+    {
+      "text": "前几天吃了点儿辣东西，痔疮大发作怎么办？",
+      "true_label": "治疗方案",
+      "pred_label": "后果表述",
+      "raw_output": "后果表述",
+      "correct": false
+    },
+    {
+      "text": "女左手小拇指骨折能定轻伤吗?轻伤和轻微伤有什么区别?...",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "慢性前列腺炎能治好吗",
+      "true_label": "疾病表述",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": false
+    },
+    {
+      "text": "孩子腹泻一般要几天才能好，需要一直吃药吗",
+      "true_label": "疾病表述",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": false
+    },
+    {
+      "text": "银屑病的最好治疗方法是什么？",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "强制性脊柱炎怎么治疗",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "腿肚子拉伤肿胀有淤青该怎样治疗",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "皮肤有淀粉样变该如",
+      "true_label": "其他",
+      "pred_label": "病因分析",
+      "raw_output": "病因分析",
+      "correct": false
+    },
+    {
+      "text": "什么药不能和糖一起服用",
+      "true_label": "注意事项",
+      "pred_label": null,
+      "raw_output": "药物相互作用",
+      "correct": false
+    },
+    {
+      "text": "月经推迟四天检查都未孕吃药会来月经吗",
+      "true_label": "病情诊断",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "河南不孕不育哪个医院治得好",
+      "true_label": "就医建议",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": true
+    },
+    {
+      "text": "三尖瓣狭窄的鉴别诊断和并发症",
+      "true_label": "疾病表述",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": false
+    },
+    {
+      "text": "该如何治混合痔好",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "急感冒引发支气管炎怎么办",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "多发性大动脉炎诊断标准是什么",
+      "true_label": "疾病表述",
+      "pred_label": "疾病表述",
+      "raw_output": "疾病表述",
+      "correct": true
+    },
+    {
+      "text": "指甲草能治好灰指甲吗？",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "急性肠炎有什么症状常见",
+      "true_label": "疾病表述",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": false
+    },
+    {
+      "text": "治咽喉痛的偏方是什么",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "预防脑动脉粥样硬化应该吃什么药副作用小",
+      "true_label": "治疗方案",
+      "pred_label": "病因分析",
+      "raw_output": "病因分析",
+      "correct": false
+    },
+    {
+      "text": "更年期女人月经过多怎么办",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "脖子有一块地方痒是怎么回事？",
+      "true_label": "病情诊断",
+      "pred_label": null,
+      "raw_output": "瘙痒",
+      "correct": false
+    },
+    {
+      "text": "怀孕多长时间显怀",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "朔州地区治疗脑膜瘤要多少钱？",
+      "true_label": "医疗费用",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "怎么诊断成糖尿病？",
+      "true_label": "疾病表述",
+      "pred_label": "病因分析",
+      "raw_output": "病因分析",
+      "correct": false
+    },
+    {
+      "text": "乳腺增生的中医治疗有哪些？",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "一年前被狗咬伤没打针，现在可以补回去吗？",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "西红柿是发物吗？西红柿是发物吗？",
+      "true_label": "功效作用",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": false
+    },
+    {
+      "text": "月经来了4天了",
+      "true_label": "病情诊断",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "早搏伴有心慌出汗拉肚子是怎么回事？",
+      "true_label": "病情诊断",
+      "pred_label": "后果表述",
+      "raw_output": "后果表述",
+      "correct": false
+    },
+    {
+      "text": "FUE植发要多少次",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "肛门周围肿块（要详细回答",
+      "true_label": "其他",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": false
+    },
+    {
+      "text": "服用枸橼酸铋钾颗粒能彻底清除结石吗？",
+      "true_label": "其他",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": false
+    },
+    {
+      "text": "脸色暗黄的原因",
+      "true_label": "病情诊断",
+      "pred_label": "病因分析",
+      "raw_output": "病因分析",
+      "correct": false
+    },
+    {
+      "text": "癫痫为何会反复危害患者呢？",
+      "true_label": "疾病表述",
+      "pred_label": "后果表述",
+      "raw_output": "后果表述",
+      "correct": false
+    },
+    {
+      "text": "月经不调怎么办？有一次是3月22号来，四月份没有来，直到5月19号才来，之前去过医院验血不是怀孕，这...",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "一月前气胸百分之20住院六天后百分之12出院.现在右臂腋下涨痛",
+      "true_label": "治疗方案",
+      "pred_label": "后果表述",
+      "raw_output": "后果表述",
+      "correct": false
+    },
+    {
+      "text": "治疗肿瘤到哪家医院什么方法治愈?",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "不怀孕不怀孕请问医生我们还需要查什么吗？怎么治疗。",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "之前没有治疗过，想知道会是什么病",
+      "true_label": "病情诊断",
+      "pred_label": "病因分析",
+      "raw_output": "病因分析",
+      "correct": false
+    },
+    {
+      "text": "肺部有黑色的一块",
+      "true_label": "病情诊断",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": false
+    },
+    {
+      "text": "小孩误食生化干燥剂怎么办",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "胃疼没规律什么原因",
+      "true_label": "病情诊断",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": true
+    },
+    {
+      "text": "怎么能快速瘦肚子",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "患有抽动症的孩子如何治疗？",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "宝宝身上长了好多红红的像痱子一样的'东西，怎么办",
+      "true_label": "治疗方案",
+      "pred_label": null,
+      "raw_output": "病状诊断",
+      "correct": false
+    },
+    {
+      "text": "撤退性出血干净后用验孕棒行不行",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "请问宝宝红屁股怎么办？",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "康王去屑效果怎么样",
+      "true_label": "其他",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": true
+    },
+    {
+      "text": "中药土茯苓的功效与作用有哪些？",
+      "true_label": "功效作用",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": false
+    },
+    {
+      "text": "大夫你好，我看网络上说优泌舒可以治疗吗尖锐湿疣，是真的吗？",
+      "true_label": "治疗方案",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": false
+    },
+    {
+      "text": "白带变黄异味重，怎么会事",
+      "true_label": "其他",
+      "pred_label": "后果表述",
+      "raw_output": "后果表述",
+      "correct": false
+    },
+    {
+      "text": "请问右侧阴囊内实性小结节，该怎么治疗？",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "为什么怀孕就那么难呢",
+      "true_label": "其他",
+      "pred_label": null,
+      "raw_output": "生育困难",
+      "correct": false
+    },
+    {
+      "text": "脊髓灰质炎后遗症的康复",
+      "true_label": "其他",
+      "pred_label": null,
+      "raw_output": "康复",
+      "correct": false
+    },
+    {
+      "text": "牙齿是棱着长的怎么办",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "该怎么样治疗外阴白斑",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "12周多五天nt0.30高吗",
+      "true_label": "指标解读",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": false
+    },
+    {
+      "text": "子宫内膜癌如何才能治好子宫内膜癌术后要吃这些",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "您好，我家宝宝才出生七天，现在奶水不足，每次都是先喂母乳，再接着喂30ml奶粉，请问这样可以吗？",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "今年4月左小腿骨折手术后已经2个月了是否已经开始长骨...",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "便血怎么办要注意什么好啊",
+      "true_label": "注意事项",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "包皮手术后20天龟头软骨不适什么原因?",
+      "true_label": "病情诊断",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "肾结石的基本常识",
+      "true_label": "疾病表述",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": false
+    },
+    {
+      "text": "紧急求助牙龈肿痛嗓子疼求解决办法",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "北京治痔疮佑安医院好",
+      "true_label": "就医建议",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": true
+    },
+    {
+      "text": "宝宝不好好吃奶怎么办",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "鸡皮肤如何治",
+      "true_label": "治疗方案",
+      "pred_label": "疾病表述",
+      "raw_output": "疾病表述",
+      "correct": false
+    },
+    {
+      "text": "皮肤干燥是缺乏什么维生素啊？",
+      "true_label": "病情诊断",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": false
+    },
+    {
+      "text": "我的小腿肚子特别憋胀请问大夫是怎么回事",
+      "true_label": "病情诊断",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": true
+    },
+    {
+      "text": "舌苔呈网状裂纹是怎么回事？？",
+      "true_label": "病情诊断",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": true
+    },
+    {
+      "text": "你好，月经前七天同房射进去会不会怀孕？",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "治腰疼用药腰痛宁配合什么叫什么风湿的药管",
+      "true_label": "其他",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": true
+    },
+    {
+      "text": "腰椎间盘突出症吃腰痛宁胶囊效果会好点吗",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "孩子高烧不退怎么办？",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "怎么能让眼睛消肿？晚上睡觉时用冷毛巾敷有",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "咨询：我想问问外阴有点痒，用达克宁可以吗",
+      "true_label": "其他",
+      "pred_label": null,
+      "raw_output": "症状解读",
+      "correct": false
+    },
+    {
+      "text": "女性29岁",
+      "true_label": "病情诊断",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": true
+    },
+    {
+      "text": "检查胃除了胃镜外还有更先进的器材吗",
+      "true_label": "其他",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": true
+    },
+    {
+      "text": "泸州有没有白癜风医院？",
+      "true_label": "就医建议",
+      "pred_label": "疾病表述",
+      "raw_output": "疾病表述",
+      "correct": false
+    },
+    {
+      "text": "引起不孕不育的原因有那些呢？",
+      "true_label": "病因分析",
+      "pred_label": null,
+      "raw_output": "生育计划",
+      "correct": false
+    },
+    {
+      "text": "你好妊娠糖尿病怎么降，怎",
+      "true_label": "治疗方案",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": false
+    },
+    {
+      "text": "鼻息肉吃什么药效果好些呢",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "我现在怀孕才三个月，做彩超能查出来吗？...",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "以为是痱子",
+      "true_label": "其他",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": false
+    },
+    {
+      "text": "一岁宝宝屁股湿疹用什么药",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "池州专业口臭医院是哪家小孩子怎么会口臭啊...",
+      "true_label": "就医建议",
+      "pred_label": "后果表述",
+      "raw_output": "后果表述",
+      "correct": false
+    },
+    {
+      "text": "肺结核病现在可以治愈吗",
+      "true_label": "疾病表述",
+      "pred_label": null,
+      "raw_output": "治愈",
+      "correct": false
+    },
+    {
+      "text": "纹身会不会得艾滋",
+      "true_label": "后果表述",
+      "pred_label": null,
+      "raw_output": "感染性病",
+      "correct": false
+    },
+    {
+      "text": "晚上熟睡磨牙是怎么回事",
+      "true_label": "病情诊断",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "变异型心绞痛能活几年",
+      "true_label": "疾病表述",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": false
+    },
+    {
+      "text": "天津东丽区哪做人流好",
+      "true_label": "就医建议",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": true
+    },
+    {
+      "text": "急性乳腺炎急性乳腺炎这种病多久会治愈，是否加大输液量，有什么较好的药物针对这种病。",
+      "true_label": "疾病表述",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": false
+    },
+    {
+      "text": "怎么搭辅食啊？",
+      "true_label": "注意事项",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "为什么不说网络社交恐惧症？",
+      "true_label": "其他",
+      "pred_label": "后果表述",
+      "raw_output": "后果表述",
+      "correct": false
+    },
+    {
+      "text": "咽炎",
+      "true_label": "治疗方案",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": false
+    },
+    {
+      "text": "一直在吃母乳的孩子4个月吃什么辅助食物？",
+      "true_label": "注意事项",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "吃什么能治疗失眠呢",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "男B型血女O型抗体效价是512能要孩子吗现在可否要孩子",
+      "true_label": "其他",
+      "pred_label": null,
+      "raw_output": "生育能力",
+      "correct": false
+    },
+    {
+      "text": "鼻窦炎，引发头痛，呼吸不顺畅，胸闷。给予治疗地方",
+      "true_label": "其他",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": false
+    },
+    {
+      "text": "做了子宫肌瘤的手术后，为什么有时接...",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "哪个医院能根治盆腔炎",
+      "true_label": "就医建议",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": false
+    },
+    {
+      "text": "这种情况是乳腺癌吗？",
+      "true_label": "其他",
+      "pred_label": "疾病表述",
+      "raw_output": "疾病表述",
+      "correct": false
+    },
+    {
+      "text": "咳嗽严重，不知可能吃些什么药不影响胎儿",
+      "true_label": "其他",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": true
+    },
+    {
+      "text": "宫颈糜烂会引起阴道炎吗",
+      "true_label": "疾病表述",
+      "pred_label": null,
+      "raw_output": "病患建议",
+      "correct": false
+    },
+    {
+      "text": "月经很多天没来了",
+      "true_label": "病情诊断",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": false
+    },
+    {
+      "text": "咳嗽流鼻涕 宝宝刚吃完药就吐了还需要补吃吗",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "感冒了能做支架手术吗",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "十一周做nt会不会偏早",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "玉溪市哪里有治疗脑瘫的专科医院",
+      "true_label": "就医建议",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": true
+    },
+    {
+      "text": "治疗白癜风的方法那种效果好",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "痛经的诊断与分类",
+      "true_label": "疾病表述",
+      "pred_label": "病因分析",
+      "raw_output": "病因分析",
+      "correct": false
+    },
+    {
+      "text": "宝贝不听话，讲道理也不行，凶他也不行，哄他也不行，怎么办",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "女性患了梅毒可以治愈吗？",
+      "true_label": "其他",
+      "pred_label": null,
+      "raw_output": "治愈",
+      "correct": false
+    },
+    {
+      "text": "怀孕后期严重失眠怎么办",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "乳腺增生，结节请问结节该怎么办请问乳腺核磁准确性高吗_",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "牛皮癣传染吗？有什么症状？",
+      "true_label": "疾病表述",
+      "pred_label": null,
+      "raw_output": "传染病",
+      "correct": false
+    },
+    {
+      "text": "血压有点高，甜叶菊和苦荞能放一块喝吗",
+      "true_label": "注意事项",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": false
+    },
+    {
+      "text": "孩子痰液粘稠该怎么办才好",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "婴儿湿疹怎么办？",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "什么医院能治好肺癌",
+      "true_label": "就医建议",
+      "pred_label": "疾病表述",
+      "raw_output": "疾病表述",
+      "correct": false
+    },
+    {
+      "text": "宝贝感冒了，鼻子不通怎么办",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "豆腐能治好鸡眼吗?",
+      "true_label": "功效作用",
+      "pred_label": "疾病表述",
+      "raw_output": "疾病表述",
+      "correct": false
+    },
+    {
+      "text": "月经前一星期小腹难受坠胀，白带水样，有血丝，啥毛病",
+      "true_label": "病情诊断",
+      "pred_label": null,
+      "raw_output": "症状解读",
+      "correct": false
+    },
+    {
+      "text": "激光治疗红色胎记效果好不好翱",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "宝宝三个月了拉肚子还带血丝是咋回事",
+      "true_label": "病情诊断",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "阴道炎什么办法治疗好？",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "肠梗阻吃什么药有效",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "银屑病患银屑病十年，想求治",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "服毓婷后孩子能要吗...",
+      "true_label": "其他",
+      "pred_label": null,
+      "raw_output": "生育咨询",
+      "correct": false
+    },
+    {
+      "text": "用了银洁纳米下体痒是怎么回事",
+      "true_label": "病情诊断",
+      "pred_label": "后果表述",
+      "raw_output": "后果表述",
+      "correct": false
+    },
+    {
+      "text": "什么情况应警惕为小儿心功能不全？",
+      "true_label": "疾病表述",
+      "pred_label": "疾病表述",
+      "raw_output": "疾病表述",
+      "correct": true
+    },
+    {
+      "text": "左侧肋骨那不舒服查出腹部的脾脏大咋办",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "怀孕一个月的反应有哪些",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "人工植发多少钱呀？",
+      "true_label": "医疗费用",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "男性的精液像橘子里的冻冻正常么.",
+      "true_label": "病情诊断",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": false
+    },
+    {
+      "text": "六个月宝宝，总是摇头是怎么回事",
+      "true_label": "病情诊断",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "怎样引导孩子带她去人多的地方玩玩吧，说话的人多了，就慢慢会了",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "红霉素擦拭多长时间就可以清洗掉",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "疝气是怎么形成的，如何治疗？",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "有没有月子自己带小孩的？？？...",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "自然流产，不知道是否流干净没有，什么时候检查好呢？",
+      "true_label": "就医建议",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": true
+    },
+    {
+      "text": "注射丙泊酚后多久麻药失效",
+      "true_label": "其他",
+      "pred_label": null,
+      "raw_output": "药物失效时间",
+      "correct": false
+    },
+    {
+      "text": "宫颈癌术后一年半刀口一直增生、发紧、痒痒术后刀口增生宫颈癌术后一年半刀口一直增生、发紧、痒  怎样能不继续增生，让刀口不痒、平复呢_",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "小孩7岁打了百破手肿痒还有点硬是怎么回事",
+      "true_label": "病情诊断",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": true
+    },
+    {
+      "text": "腰椎滑脱的注意事项有哪些",
+      "true_label": "注意事项",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "子宫腺肌瘤会怀孕吗",
+      "true_label": "疾病表述",
+      "pred_label": null,
+      "raw_output": "生育性",
+      "correct": false
+    },
+    {
+      "text": "做完人流后小肚子胀怎么回事",
+      "true_label": "病情诊断",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "咨询：五个月宝宝有湿疹怎么办？用药一直反反复复，怎么办？",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "如何自我检测乳腺增生?",
+      "true_label": "其他",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": false
+    },
+    {
+      "text": "有了大便失禁后咋治疗",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "我外包皮上长了几棵小豆，怎么办",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "视神经炎视神经炎治1疗程（10天），无明显好转希望大夫能够当面就诊，怎样可以挂你的号。",
+      "true_label": "其他",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "木瓜粉和葛根粉没有丰胸的效果么？",
+      "true_label": "功效作用",
+      "pred_label": "后果表述",
+      "raw_output": "后果表述",
+      "correct": false
+    },
+    {
+      "text": "你好，我的最里老是发粘，是怎么回事",
+      "true_label": "病情诊断",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": true
+    },
+    {
+      "text": "怀孕心跳快怎么办",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "得了直肠癌怎么办比较好",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "中年人慢性直肠炎的症状是...",
+      "true_label": "疾病表述",
+      "pred_label": null,
+      "raw_output": "症状解读",
+      "correct": false
+    },
+    {
+      "text": "为什么会有宫颈痛这个臭病呢？",
+      "true_label": "其他",
+      "pred_label": "后果表述",
+      "raw_output": "后果表述",
+      "correct": false
+    },
+    {
+      "text": "小儿癫痫病是不是能治好呢",
+      "true_label": "疾病表述",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": false
+    },
+    {
+      "text": "趾疣怎么治，如何确诊是趾疣还是",
+      "true_label": "治疗方案",
+      "pred_label": "疾病表述",
+      "raw_output": "疾病表述",
+      "correct": false
+    },
+    {
+      "text": "胯骨那里冰凉",
+      "true_label": "其他",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": true
+    },
+    {
+      "text": "宝宝最近晚上睡觉不踏实，哭闹，怎么回事？",
+      "true_label": "病情诊断",
+      "pred_label": null,
+      "raw_output": "入睡困难",
+      "correct": false
+    },
+    {
+      "text": "办公室白领该如何预防腰椎病？",
+      "true_label": "其他",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": false
+    },
+    {
+      "text": "治皮肤病费用大概多少",
+      "true_label": "医疗费用",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "喝啤酒头疼怎么办",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "子宫内膜移位伴有巧克力囊肿怎么治疗",
+      "true_label": "治疗方案",
+      "pred_label": "治疗方案",
+      "raw_output": "治疗方案",
+      "correct": true
+    },
+    {
+      "text": "输卵管粘连的基本检查",
+      "true_label": "其他",
+      "pred_label": "病情诊断",
+      "raw_output": "病情诊断",
+      "correct": false
+    },
+    {
+      "text": "人为刺激能诱发老年人得老年痴呆吗？",
+      "true_label": "其他",
+      "pred_label": null,
+      "raw_output": "老年病",
+      "correct": false
+    },
+    {
+      "text": "胎儿B超检查异常怎么办呢",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "经常一起吃蜂王浆、蜂蜜、蜂花粉有什么副作",
+      "true_label": "后果表述",
+      "pred_label": "其他",
+      "raw_output": "其他",
+      "correct": false
+    },
+    {
+      "text": "宫颈糜烂出血怎么办翱会不会很严重？有",
+      "true_label": "治疗方案",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    },
+    {
+      "text": "降血脂药品世界哪个药厂生产好",
+      "true_label": "其他",
+      "pred_label": null,
+      "raw_output": "药物评价",
+      "correct": false
+    },
+    {
+      "text": "女为什么做人流后10多天肚子还没消呢和之前有宝宝一样...",
+      "true_label": "病情诊断",
+      "pred_label": "就医建议",
+      "raw_output": "就医建议",
+      "correct": false
+    }
+  ]
+}
